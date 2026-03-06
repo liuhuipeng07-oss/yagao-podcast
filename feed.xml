@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
-    <title>牙膏哥的毒舌播客</title>
+    <title>牙膏赛文碎碎念</title>
     <description>科技/Web3/加密货币/AI 傲娇点评</description>
     <link>https://github.com/liuhuipeng07-oss/yagao-podcast</link>
     <language>zh-CN</language>
@@ -14,7 +14,7 @@
     
     <item>
       <title>EP001 - 毒舌晚间新闻 2026-03-06</title>
-      <description>牙膏哥的毒舌播客第一期 - 马斯克火箭回收/AI 大厂卷参数/Web3 圈震荡/AI+Web3 机会/金融市场吐槽</description>
+      <description>牙膏赛文碎碎念第一期 - 马斯克火箭回收/AI 大厂卷参数/Web3 圈震荡/AI+Web3 机会/金融市场吐槽</description>
       <enclosure url="https://raw.githubusercontent.com/liuhuipeng07-oss/yagao-podcast/main/EP001_毒舌晚间新闻_2026-03-06_激情版.mp3" type="audio/mpeg" length="1146880"/>
       <guid>ep001-2026-03-06</guid>
       <pubDate>Thu, 06 Mar 2026 10:55:00 GMT</pubDate>
