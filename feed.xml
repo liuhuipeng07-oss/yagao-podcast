@@ -7,14 +7,17 @@
     <language>zh-CN</language>
     <itunes:author>liuhuipeng07-oss</itunes:author>
     <itunes:explicit>false</itunes:explicit>
-    <itunes:image href="https://github.com/liuhuipeng07-oss/yagao-podcast/raw/main/cover.jpg"/>
+    <itunes:image href="https://raw.githubusercontent.com/liuhuipeng07-oss/yagao-podcast/main/cover.jpg"/>
+    <itunes:category text="Technology">
+      <itunes:category text="Tech News"/>
+    </itunes:category>
     
     <item>
       <title>EP001 - 毒舌晚间新闻 2026-03-06</title>
       <description>牙膏哥的毒舌播客第一期 - 马斯克火箭回收/AI 大厂卷参数/Web3 圈震荡/AI+Web3 机会/金融市场吐槽</description>
-      <enclosure url="https://raw.githubusercontent.com/liuhuipeng07-oss/yagao-podcast/main/EP001_毒舌晚间新闻_2026-03-06.mp3" type="audio/mpeg" length="1139616"/>
+      <enclosure url="https://raw.githubusercontent.com/liuhuipeng07-oss/yagao-podcast/main/EP001_毒舌晚间新闻_2026-03-06_激情版.mp3" type="audio/mpeg" length="1146880"/>
       <guid>ep001-2026-03-06</guid>
-      <pubDate>Fri, 06 Mar 2026 12:14:59 GMT</pubDate>
+      <pubDate>Thu, 06 Mar 2026 10:55:00 GMT</pubDate>
       <itunes:duration>5:00</itunes:duration>
       <itunes:episode>1</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
