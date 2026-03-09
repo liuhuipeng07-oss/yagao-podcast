@@ -13,13 +13,13 @@
     </itunes:category>
     
     <item>
-      <title>EP001 - 毒舌晚间新闻_2026-03-06_激情版</title>
-      <description>牙膏赛文碎碎念 - 马斯克火箭回收/AI 大厂卷参数/Web3 圈震荡/AI+Web3 机会/金融市场吐槽</description>
-      <enclosure url="https://raw.githubusercontent.com/liuhuipeng07-oss/yagao-podcast/main/毒舌晚间新闻_2026-03-06_激情版.mp3" type="audio/mpeg" length="1139616"/>
-      <guid>ep001-2026-03-06</guid>
-      <pubDate>Sat, 07 Mar 2026 10:31:43 GMT</pubDate>
-      <itunes:duration>5:00</itunes:duration>
-      <itunes:episode>1</itunes:episode>
+      <title>EP002 - 周末连天新闻 2026-03-07-08</title>
+      <description>牙膏赛文碎碎念 - 马斯克喊单/OpenAI 新模型/BTC 震荡/黄仁勋 GTC/AI 编程/DeFi 被黑</description>
+      <enclosure url="https://raw.githubusercontent.com/liuhuipeng07-oss/yagao-podcast/main/牙膏赛文碎碎念_2026-03-07-08.mp3" type="audio/mpeg" length="7864320"/>
+      <guid>ep002-2026-03-07-08</guid>
+      <pubDate>Mon, 09 Mar 2026 12:45:00 GMT</pubDate>
+      <itunes:duration>8:00</itunes:duration>
+      <itunes:episode>2</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
   </channel>
