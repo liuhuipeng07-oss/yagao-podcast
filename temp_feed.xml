@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<rss xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>牙膏赛文碎碎念</title>
+    <description>科技/Web3/加密货币/AI 傲娇点评</description>
+    <link>https://github.com/liuhuipeng07-oss/yagao-podcast</link>
+    <language>zh-CN</language>
+    <ns0:author>liuhuipeng07-oss</ns0:author>
+    <ns0:explicit>false</ns0:explicit>
+    <ns0:image href="https://raw.githubusercontent.com/liuhuipeng07-oss/yagao-podcast/main/cover.jpg"/>
+    <ns0:category text="Technology">
+      <ns0:category text="Tech News"/>
+    </ns0:category>
+    <item>
+      <title>EP001 - 毒舌晚间新闻_2026-03-06_激情版</title>
+      <description>牙膏赛文碎碎念 - 马斯克火箭回收/AI 大厂卷参数/Web3 圈震荡/AI+Web3 机会/金融市场吐槽</description>
+      <enclosure url="https://raw.githubusercontent.com/liuhuipeng07-oss/yagao-podcast/main/毒舌晚间新闻_2026-03-06_激情版.mp3" type="audio/mpeg" length="1139616"/>
+      <guid>ep001-2026-03-06</guid>
+      <pubDate>Thu, 12 Mar 2026 14:34:54 GMT</pubDate>
+      <ns0:duration>5:00</ns0:duration>
+      <ns0:episode>1</ns0:episode>
+      <ns0:episodeType>full</ns0:episodeType>
+    </item>
+    <item>
+      <title>赛文碎碎念·早间 2026-03-15</title>
+      <description/>
+      <enclosure url="https://raw.githubusercontent.com/liuhuipeng07-oss/yagao-podcast/main/赛文碎碎念_早间_2026-03-15_09-00.mp3" type="audio/mpeg" length="1154592"/>
+      <guid>ep000-2026-03-15-17-19</guid>
+      <pubDate>Sun, 15 Mar 2026 09:19:33 GMT</pubDate>
+      <ns0:duration>5:00</ns0:duration>
+      <ns0:episode>000</ns0:episode>
+      <ns0:episodeType>full</ns0:episodeType>
+    </item>
+  </channel>
+</rss>
